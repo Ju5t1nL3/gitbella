@@ -12,5 +12,4 @@ def print_100():
 
 #### bellas function
 def print_50():
-    for i in range(50):
-        print(i)
+    print(50)
