@@ -7,8 +7,7 @@ print("hello worldddddsssss")
 
 ##### justin's function
 def print_100():
-    for i in range(100):
-        print(i)
+    print(i)
 
 
 #### bellas function
